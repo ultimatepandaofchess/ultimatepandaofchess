@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ultimatepandaofchess
-- 👀 I’m interested in coding, chess, math and science
-- 🌱 I’m currently learning java
+- 👀 I’m interested in chess, math, and physics
+- 🌱 I’m currently learning java, calculus, and electromagnetism
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: don't
 - 😄 Pronouns: he/him
